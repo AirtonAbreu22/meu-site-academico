@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial</title>
+</head>
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+        <h1>Nome do Site</h1>
+        <img src="logo.png" alt="Logo do Site">
+    </header>
+
+    <!-- Menu de Navegação -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Página Inicial</a></li>
+            <li><a href="detalhes.html">Detalhes</a></li>
+            <li><a href="sobre.html">Sobre o Autor</a></li>
+        </ul>
+    </nav>
+
+    <!-- Conteúdo Principal -->
+    <main>
+        <section>
+            <h2>Objetos Tema</h2>
+            <div>
+                <h3>Título do Objeto 1</h3>
+                <img src="objeto1.jpg" alt="Objeto 1">
+            </div>
+            <div>
+                <h3>Título do Objeto 2</h3>
+                <img src="objeto2.jpg" alt="Objeto 2">
+            </div>
+            <!-- Continue para outros objetos -->
+        </section>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>&copy; 2025 Nome do Autor | <a href="sobre.html">Sobre o Autor</a></p>
+    </footer>
+
+</body>
+</html>
